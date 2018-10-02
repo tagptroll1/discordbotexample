@@ -6,7 +6,7 @@
 2. `$pip install -r requirements.txt (coming soon)`
 
 ## How to run
-- `py bot.py`
+- `py bot.py`  
 If that does not work try some of the following
 - `python bot.py`
 - `python3 bot.py`
